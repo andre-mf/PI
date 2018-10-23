@@ -1,0 +1,12 @@
+.italico {
+    font-style: italic;
+}
+
+.img-produto {
+    max-width: 100%;
+    height: 200px;
+}
+
+.fundo_branco_formulario_disable{
+    background: #fff !important;
+}

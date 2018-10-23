@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6559ee0-110d-416f-84b2-60fc830b47b3" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="pi2@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="pi2@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="pi2@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="pi: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1281718136">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.4" value="4" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="ini" value="1" />
+          <entry key="php" value="8" />
+          <entry key="produto" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Database Element" value="1" />
+          <entry key="Ini" value="1" />
+          <entry key="PHP" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="php" value="248" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PHP" value="248" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Produto/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="13" column="61" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sql/Sql.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" column="85" selection-start-line="8" selection-start-column="85" selection-end-line="8" selection-end-column="85" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Produto/teste.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Produto/produtos.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>nome</find>
+      <find>fornece</find>
+      <find>fornecedor</find>
+      <find>prod</find>
+      <find>email</find>
+      <find>cpf</find>
+      <find>set</find>
+      <find>endere</find>
+      <find>DATA_CADAS</find>
+      <find>loadb</find>
+      <find>load</find>
+      <find>$arquivo</find>
+      <find>index</find>
+      <find />
+      <find>byid</find>
+      <find>area-&gt;</find>
+      <find>id</find>
+      <find>fa-trash-alt</find>
+      <find>setdata</find>
+      <find>volta</find>
+      <find>limpar</find>
+      <find>descri</find>
+      <find>$categoria-&gt;getDescrCategoria()</find>
+      <find>type=&quot;text&quot;</find>
+      <find>clientes</find>
+      <find>control</find>
+      <find>confirm</find>
+      <find>prima</find>
+      <find>row</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>get</replace>
+      <replace>=</replace>
+      <replace>fa-times</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index 2.php" />
+        <option value="$PROJECT_DIR$/index2.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/8a7326c6-f0ec-4cab-aa5d-7e10f43551ef/console_5.sql" />
+        <option value="$PROJECT_DIR$/Testes/teste.html" />
+        <option value="$PROJECT_DIR$/js/chosen/chosen.jquery.js" />
+        <option value="$PROJECT_DIR$/Testes/teste6.php" />
+        <option value="$PROJECT_DIR$/Testes/teste6.2.php" />
+        <option value="$PROJECT_DIR$/FormaPgto/processamento.php" />
+        <option value="$PROJECT_DIR$/Categoria/aba_categorias.php" />
+        <option value="$PROJECT_DIR$/FormaPgto/aba_formaspgto.php" />
+        <option value="$PROJECT_DIR$/Fornecedor/aba_fornecedores.php" />
+        <option value="$PROJECT_DIR$/FormaPgto/formaspgto.php" />
+        <option value="$PROJECT_DIR$/Estoque/controlestoque.php" />
+        <option value="$PROJECT_DIR$/js/DataTables.js" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/8a7326c6-f0ec-4cab-aa5d-7e10f43551ef/console_6.sql" />
+        <option value="$PROJECT_DIR$/Estoque/teste.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/8a7326c6-f0ec-4cab-aa5d-7e10f43551ef/console_7.sql" />
+        <option value="$PROJECT_DIR$/Categoria/processamento.php" />
+        <option value="$PROJECT_DIR$/Categoria/TESTE.php" />
+        <option value="$PROJECT_DIR$/Area/processamento.php" />
+        <option value="$PROJECT_DIR$/Categoria/formulario_categorias.php" />
+        <option value="$PROJECT_DIR$/Area/formulario_areas.php" />
+        <option value="$PROJECT_DIR$/Cliente/formulario_clientes.php" />
+        <option value="$PROJECT_DIR$/FormaPgto/formulario_formaspgto.php" />
+        <option value="$PROJECT_DIR$/Fornecedor/formulario_fornecedores.php" />
+        <option value="$PROJECT_DIR$/FormaPgto/FormaPgto.php" />
+        <option value="$PROJECT_DIR$/css/estilo.css" />
+        <option value="$PROJECT_DIR$/preenche_combos.php" />
+        <option value="$PROJECT_DIR$/js/validador.js" />
+        <option value="$PROJECT_DIR$/Produto/index2.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/8a7326c6-f0ec-4cab-aa5d-7e10f43551ef/console_8.sql" />
+        <option value="$PROJECT_DIR$/cabecalho.php" />
+        <option value="$PROJECT_DIR$/rodape.php" />
+        <option value="$PROJECT_DIR$/Estoque/aba_estoque.php" />
+        <option value="$PROJECT_DIR$/Cliente/aba_clientes.php" />
+        <option value="$PROJECT_DIR$/Produto/aba_produtos.php" />
+        <option value="$PROJECT_DIR$/Area/aba_areas.php" />
+        <option value="$PROJECT_DIR$/Categoria/Categoria.php" />
+        <option value="$PROJECT_DIR$/Endereco/Endereco.php" />
+        <option value="$PROJECT_DIR$/Estoque/processamento.php" />
+        <option value="$PROJECT_DIR$/Estoque/formulario_estoque.php" />
+        <option value="$PROJECT_DIR$/Estoque/Estoque.php" />
+        <option value="$PROJECT_DIR$/Area/Area.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/8a7326c6-f0ec-4cab-aa5d-7e10f43551ef/console_10.sql" />
+        <option value="$PROJECT_DIR$/Fornecedor/Fornecedor.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/8a7326c6-f0ec-4cab-aa5d-7e10f43551ef/console.sql" />
+        <option value="$PROJECT_DIR$/Cliente/Cliente.php" />
+        <option value="$PROJECT_DIR$/Produto/formulario_produtos.php" />
+        <option value="$PROJECT_DIR$/Sql/Sql.php" />
+        <option value="$PROJECT_DIR$/Produto/index.php" />
+        <option value="$PROJECT_DIR$/Produto/teste.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="960" />
+    <option name="y" value="1040" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PI" type="462c0819:PsiDirectoryNode" />
+              <item name="Produto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PI" type="462c0819:PsiDirectoryNode" />
+              <item name="Sql" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="C:/php - Copia/php.exe" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\nginx\html\PI\Novo PI 3\Produto" />
+      <recent name="C:\nginx\html\PI\Novo PI 2\Estoque" />
+      <recent name="C:\nginx\html\PI\Novo PI 2\FormaPgto" />
+      <recent name="C:\nginx\html\PI\Novo PI 2\Testes" />
+      <recent name="C:\nginx\html\PI\Novo PI 2\Produto" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\nginx\html\PI\Novo PI 2\js\chosen" />
+      <recent name="C:\nginx\html\PI\Novo PI 2\Produto" />
+      <recent name="C:\nginx\html\PI\Novo PI 2\Testes" />
+      <recent name="C:\nginx\html\PI\Novo PI 2" />
+      <recent name="C:\nginx\html\PI\Novo PI 2\Fornecedor" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",Show Includes,Show Constants,Show Protected Members,Show Private Members" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6559ee0-110d-416f-84b2-60fc830b47b3" name="Default" comment="" />
+      <created>1527515441501</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527515441501</updated>
+      <workItem from="1527515442773" duration="8922000" />
+      <workItem from="1527525408395" duration="17023000" />
+      <workItem from="1527551175292" duration="3016000" />
+      <workItem from="1527602638159" duration="14328000" />
+      <workItem from="1527644562149" duration="5000000" />
+      <workItem from="1527706066774" duration="18165000" />
+      <workItem from="1527793879990" duration="8545000" />
+      <workItem from="1527864896500" duration="3595000" />
+      <workItem from="1527954469083" duration="642000" />
+      <workItem from="1527967020655" duration="8190000" />
+      <workItem from="1528164860546" duration="260000" />
+      <workItem from="1528209139852" duration="21505000" />
+      <workItem from="1528294017256" duration="641000" />
+      <workItem from="1528295080382" duration="19924000" />
+      <workItem from="1528318418062" duration="9260000" />
+      <workItem from="1528390231765" duration="11002000" />
+      <workItem from="1528467767556" duration="15617000" />
+      <workItem from="1528553410090" duration="26601000" />
+      <workItem from="1528639897760" duration="4000" />
+      <workItem from="1528639913798" duration="167000" />
+      <workItem from="1528641727124" duration="3000" />
+      <workItem from="1528644220294" duration="7174000" />
+      <workItem from="1528721764828" duration="3776000" />
+      <workItem from="1528726189693" duration="14937000" />
+      <workItem from="1528823970080" duration="6855000" />
+      <workItem from="1528849172610" duration="6623000" />
+      <workItem from="1528898990707" duration="4200000" />
+      <workItem from="1528909130708" duration="5000" />
+      <workItem from="1528909301476" duration="1222000" />
+      <workItem from="1528934048319" duration="4403000" />
+      <workItem from="1528982342440" duration="2663000" />
+      <workItem from="1529011499658" duration="599000" />
+      <workItem from="1538342028055" duration="37000" />
+      <workItem from="1538342069092" duration="1017000" />
+      <workItem from="1538343707494" duration="4000000" />
+      <workItem from="1538348236616" duration="196000" />
+      <workItem from="1538348631758" duration="1306000" />
+      <workItem from="1538532663945" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="251440000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="960" y="1040" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.75408053" visible="true" weight="0.16827957" />
+      <window_info id="Structure" order="1" sideWeight="0.24591948" side_tool="true" weight="0.14623655" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3297062" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Console" order="7" weight="0.32928178" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3297062" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="13" visible="true" weight="0.32928178" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.12580645" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/rodape.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Estoque/aba_estoque.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Produto/aba_produtos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/8a7326c6-f0ec-4cab-aa5d-7e10f43551ef/console_9.sql" />
+    <entry file="das://8a7326c6-f0ec-4cab-aa5d-7e10f43551ef/schema/pi2/table/teste" />
+    <entry file="das://8a7326c6-f0ec-4cab-aa5d-7e10f43551ef/schema/pi2/table/venda" />
+    <entry file="das://8a7326c6-f0ec-4cab-aa5d-7e10f43551ef/schema/pi2/table/venda_detalhada" />
+    <entry file="file://$PROJECT_DIR$/imagens/produtos/35.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imagens/produtos/.png" />
+    <entry file="file://$PROJECT_DIR$/Fornecedor/aba_fornecedores.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://8a7326c6-f0ec-4cab-aa5d-7e10f43551ef/schema/pi2/table/categoria" />
+    <entry file="das://8a7326c6-f0ec-4cab-aa5d-7e10f43551ef/schema/pi2/table/area" />
+    <entry file="das://8a7326c6-f0ec-4cab-aa5d-7e10f43551ef/schema/pi2/table/cliente" />
+    <entry file="das://8a7326c6-f0ec-4cab-aa5d-7e10f43551ef/schema/pi2/table/endereco" />
+    <entry file="das://8a7326c6-f0ec-4cab-aa5d-7e10f43551ef/schema/pi2/table/estoque" />
+    <entry file="das://8a7326c6-f0ec-4cab-aa5d-7e10f43551ef/schema/pi/table/estoque" />
+    <entry file="das://8a7326c6-f0ec-4cab-aa5d-7e10f43551ef/schema/pi2/table/forma_pgto" />
+    <entry file="das://8a7326c6-f0ec-4cab-aa5d-7e10f43551ef/schema/pi/table/forma_pgto" />
+    <entry file="das://8a7326c6-f0ec-4cab-aa5d-7e10f43551ef/schema/pi2/table/produto" />
+    <entry file="das://8a7326c6-f0ec-4cab-aa5d-7e10f43551ef/schema/pi2/table/fornecedor" />
+    <entry file="das://8a7326c6-f0ec-4cab-aa5d-7e10f43551ef/schema/pi/table/venda" />
+    <entry file="das://8a7326c6-f0ec-4cab-aa5d-7e10f43551ef/schema/pi/table/venda_detalhada" />
+    <entry file="das://8a7326c6-f0ec-4cab-aa5d-7e10f43551ef/schema/pi/table/categoria" />
+    <entry file="das://8a7326c6-f0ec-4cab-aa5d-7e10f43551ef/schema/pi/table/area" />
+    <entry file="file://$PROJECT_DIR$/Categoria/Categoria.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3267">
+          <caret line="121" column="83" selection-start-line="121" selection-start-column="83" selection-end-line="121" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Endereco/Endereco.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Estoque/processamento.php" />
+    <entry file="file://$PROJECT_DIR$/Estoque/formulario_estoque.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Estoque/Estoque.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Area/aba_areas.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FormaPgto/FormaPgto.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://8a7326c6-f0ec-4cab-aa5d-7e10f43551ef/schema/pi/table/fornecedor" />
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cliente/Cliente.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/8a7326c6-f0ec-4cab-aa5d-7e10f43551ef/console_10.sql" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/8a7326c6-f0ec-4cab-aa5d-7e10f43551ef/console.sql" />
+    <entry file="file://$PROJECT_DIR$/Area/Area.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://8a7326c6-f0ec-4cab-aa5d-7e10f43551ef/schema/pi/table/cliente" />
+    <entry file="das://8a7326c6-f0ec-4cab-aa5d-7e10f43551ef/schema/pi/table/endereco" />
+    <entry file="file://$PROJECT_DIR$/Fornecedor/Fornecedor.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Produto/processamento.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cliente/aba_clientes.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cabecalho.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Produto/formulario_produtos.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/php/php.ini">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://8a7326c6-f0ec-4cab-aa5d-7e10f43551ef/schema/pi/table/produto" />
+    <entry file="file://$PROJECT_DIR$/Categoria/formulario_categorias.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Produto/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="61" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sql/Sql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="85" selection-start-line="8" selection-start-column="85" selection-end-line="8" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Produto/produtos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Produto/teste.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
